@@ -2,6 +2,10 @@
 
 A simple Rust Axum backend starter template with frontend demo showing health checks and ping-pong communication.
 
+# Screenshot
+
+<img width="586" height="496" alt="Screenshot 2025-09-30 at 11 41 31 PM" src="https://github.com/user-attachments/assets/0914bc12-1d66-411e-87e1-5c9262dbc3d5" />
+
 ## File Structure
 
 This template contains the files needed to deploy a Rust backend with frontend on Bunetic:
